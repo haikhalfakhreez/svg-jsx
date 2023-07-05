@@ -1,15 +1,13 @@
 # SVG-JSX
 
-![hero](apps/www/public/og.jpg)
+![hero](public/og.png)
 
 Build your own JSX components icon library!
 Free and Open Source.
 
-![hero](public/og.png)
-
 ## Live Site
 
-Visit [http://svg-jsx.vercel.app](http://svg-jsx.vercel.app) to view the tool.
+Visit [website](https://svg-jsx.vercel.app) to try it out!
 
 ## Tech Stack
 
